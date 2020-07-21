@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/workspace/redo/catkin_ws/install/setup.sh
